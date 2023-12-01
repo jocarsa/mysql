@@ -1,7 +1,7 @@
 SELECT 
     clientes.nombre,
     clientes.apellidos,
-    pedido.fecha
+    pedidos.fecha
 FROM pedidos
 LEFT JOIN
 clientes
