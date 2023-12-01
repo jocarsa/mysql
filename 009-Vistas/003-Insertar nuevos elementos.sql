@@ -1,0 +1,1 @@
+INSERT INTO clientes VALUES(NULL,'jaime','garcia','Jaime','Garcia','jaime@garcia.com');
